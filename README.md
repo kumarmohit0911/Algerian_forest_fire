@@ -69,10 +69,4 @@ The project utilizes the following technologies:
 The analysis provides critical insights into the factors influencing forest fires in Algeria. Understanding these patterns can guide preventative measures and resource allocation for firefighting and forest conservation.
 
 ## Acknowledgements
-
-- The dataset was sourced from [insert source if known].  
-- Special thanks to contributors and open-source tools for making this analysis possible.
-
----
-
-Let me know if you'd like to refine this further or add more specific details!
+- Krish Naik
